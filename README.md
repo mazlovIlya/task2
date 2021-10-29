@@ -1,2 +1,2 @@
-# its test project
+# now its not just a test project
 
